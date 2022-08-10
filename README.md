@@ -1,1 +1,6 @@
 # bootcamp
+percobaan
+
+test
+
+info
